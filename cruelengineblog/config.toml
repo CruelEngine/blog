@@ -1,4 +1,26 @@
 baseURL = 'https://cruelengine.github.io/'
 languageCode = 'en-us'
-title = "CruelEngine's Blog"
 theme = "anatole"
+
+[params]
+title = "CruelEngine's Blog"
+description= "This is my work log"
+profilePicture = "images/profile.jpg"
+author = "B Abhineeth Bhat"
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/b-abhineeth-bhat-60597333"
+
+
+[[params.socialIcons]]
+icon = "fab fa-stack-overflow"
+title = "Stackoverflow"
+url = "https://stackoverflow.com/users/6949235/cruelengine"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/CruelEngine"
