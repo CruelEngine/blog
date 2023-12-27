@@ -1,0 +1,4 @@
+baseURL = 'https://cruelengine.github.io/'
+languageCode = 'en-us'
+title = "CruelEngine's Blog"
+theme = "anatole"

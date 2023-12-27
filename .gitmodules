@@ -1,0 +1,7 @@
+[submodule "cruelengineblog/public"]
+	path = cruelengineblog/public
+	url = https://github.com/CruelEngine/cruelengine.github.io.git
+	branch = main
+[submodule "cruelengineblog/themes/anatole"]
+	path = cruelengineblog/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
