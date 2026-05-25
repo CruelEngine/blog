@@ -1,0 +1,3 @@
+.hugo_build.lock
+# Resources is often ignored unless you want to cache processed assets
+# resources/_gen
